@@ -1,0 +1,63 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Soakassimilatedflesh",
+      "type": "food",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Tabsrp",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Tabsrp1",
+      "type": "tab",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Soakassimilatedflesh1",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {}
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.soakassimilatedflesh.name": "Soak Assimilated Flesh",
+      "item.tabsrp.name": "Tab SRP",
+      "itemGroup.tabtabsrp1": "Less Famine Mod: SRP"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "lessfaminemod",
+    "modName": "LessFamineMod",
+    "version": "1.0.0",
+    "author": "David, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "1.12.2",
+    "modElementsPackage": "net.busituteng.lessfaminemod",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000214217
+}
