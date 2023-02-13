@@ -3,24 +3,27 @@
   "_type": "food",
   "definition": {
     "renderType": 0,
-    "texture": "soak_assimilated_flesh",
+    "texture": "parasites_viscera_soup",
     "customModelName": "Normal",
-    "name": "Soak Assimilated Flesh",
+    "name": "Parasites Viscera Soup",
     "rarity": "COMMON",
     "specialInfo": [],
     "creativeTab": {
       "value": "CUSTOM:Tabsrp1"
     },
-    "stackSize": 64,
-    "nutritionalValue": 4,
-    "saturation": 0.0,
+    "stackSize": 1,
+    "nutritionalValue": 13,
+    "saturation": 0.2,
     "eatingSpeed": 32,
     "resultItem": {
       "value": ""
     },
     "forDogs": false,
     "isAlwaysEdible": true,
-    "animation": "eat",
-    "hasGlow": false
+    "animation": "drink",
+    "hasGlow": false,
+    "onEaten": {
+      "name": "ParasitesviscerasoupFoodEaten"
+    }
   }
 }

@@ -3,9 +3,9 @@
   "_type": "food",
   "definition": {
     "renderType": 0,
-    "texture": "soak_assimilated_flesh",
+    "texture": "soak_rupter_viscera",
     "customModelName": "Normal",
-    "name": "Soak Assimilated Flesh",
+    "name": "Soak Rupter Viscera",
     "rarity": "COMMON",
     "specialInfo": [],
     "creativeTab": {

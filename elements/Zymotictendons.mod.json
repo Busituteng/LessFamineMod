@@ -3,17 +3,17 @@
   "_type": "food",
   "definition": {
     "renderType": 0,
-    "texture": "soak_assimilated_flesh",
+    "texture": "zymotic_tendons",
     "customModelName": "Normal",
-    "name": "Soak Assimilated Flesh",
+    "name": "Zymotic Tendons",
     "rarity": "COMMON",
     "specialInfo": [],
     "creativeTab": {
       "value": "CUSTOM:Tabsrp1"
     },
     "stackSize": 64,
-    "nutritionalValue": 4,
-    "saturation": 0.0,
+    "nutritionalValue": 5,
+    "saturation": 0.1,
     "eatingSpeed": 32,
     "resultItem": {
       "value": ""
@@ -21,6 +21,9 @@
     "forDogs": false,
     "isAlwaysEdible": true,
     "animation": "eat",
-    "hasGlow": false
+    "hasGlow": false,
+    "onEaten": {
+      "name": "ZymotictendonsFoodEaten"
+    }
   }
 }

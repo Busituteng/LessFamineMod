@@ -1,0 +1,16 @@
+{
+  "group": "lessfaminemod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:water_bucket"
+    },
+    {
+      "item": "srparasites:lurecomponent2"
+    }
+  ],
+  "result": {
+    "item": "lessfaminemod:soakdiseasedheart",
+    "count": 1
+  }
+}

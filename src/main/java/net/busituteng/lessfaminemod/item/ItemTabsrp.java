@@ -13,14 +13,14 @@ import net.minecraft.client.renderer.block.model.ModelResourceLocation;
 import net.minecraft.block.state.IBlockState;
 
 import net.busituteng.lessfaminemod.creativetab.TabTabsrp1;
-import net.busituteng.lessfaminemod.ElementsLessFamineMod;
+import net.busituteng.lessfaminemod.ElementsLessfaminemodMod;
 
-@ElementsLessFamineMod.ModElement.Tag
-public class ItemTabsrp extends ElementsLessFamineMod.ModElement {
+@ElementsLessfaminemodMod.ModElement.Tag
+public class ItemTabsrp extends ElementsLessfaminemodMod.ModElement {
 	@GameRegistry.ObjectHolder("lessfaminemod:tabsrp")
 	public static final Item block = null;
-	public ItemTabsrp(ElementsLessFamineMod instance) {
-		super(instance, 2);
+	public ItemTabsrp(ElementsLessfaminemodMod instance) {
+		super(instance, 1);
 	}
 
 	@Override

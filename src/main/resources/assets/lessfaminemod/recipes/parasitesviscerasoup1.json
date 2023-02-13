@@ -1,0 +1,22 @@
+{
+  "group": "lessfaminemod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:bowl"
+    },
+    {
+      "item": "srparasites:lurecomponent2"
+    },
+    {
+      "item": "srparasites:lurecomponent4"
+    },
+    {
+      "item": "srparasites:lurecomponent5"
+    }
+  ],
+  "result": {
+    "item": "lessfaminemod:parasitesviscerasoup",
+    "count": 1
+  }
+}

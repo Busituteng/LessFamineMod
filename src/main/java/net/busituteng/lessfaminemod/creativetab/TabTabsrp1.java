@@ -8,12 +8,12 @@ import net.minecraft.item.ItemStack;
 import net.minecraft.creativetab.CreativeTabs;
 
 import net.busituteng.lessfaminemod.item.ItemTabsrp;
-import net.busituteng.lessfaminemod.ElementsLessFamineMod;
+import net.busituteng.lessfaminemod.ElementsLessfaminemodMod;
 
-@ElementsLessFamineMod.ModElement.Tag
-public class TabTabsrp1 extends ElementsLessFamineMod.ModElement {
-	public TabTabsrp1(ElementsLessFamineMod instance) {
-		super(instance, 3);
+@ElementsLessfaminemodMod.ModElement.Tag
+public class TabTabsrp1 extends ElementsLessfaminemodMod.ModElement {
+	public TabTabsrp1(ElementsLessfaminemodMod instance) {
+		super(instance, 10);
 	}
 
 	@Override

@@ -10,22 +10,22 @@
     "recipeShapeless": true,
     "recipeSlots": [
       {
-        "value": ""
-      },
-      {
-        "value": ""
-      },
-      {
-        "value": ""
-      },
-      {
-        "value": ""
+        "value": "Items.BOWL"
       },
       {
         "value": "Items.APPLE"
       },
       {
-        "value": "Items.WATER_BUCKET"
+        "value": "Items.APPLE"
+      },
+      {
+        "value": "Items.APPLE"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
       },
       {
         "value": ""
@@ -38,9 +38,9 @@
       }
     ],
     "recipeReturnStack": {
-      "value": "CUSTOM:Soakassimilatedflesh"
+      "value": "CUSTOM:Parasitesviscerasoup"
     },
-    "name": "soakassimilatedflesh1",
+    "name": "parasitesviscerasoup1",
     "namespace": "mod"
   }
 }

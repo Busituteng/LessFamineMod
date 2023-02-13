@@ -1,0 +1,19 @@
+{
+  "group": "lessfaminemod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:spider_eye"
+    },
+    {
+      "item": "srparasites:lurecomponent3"
+    },
+    {
+      "item": "srparasites:lurecomponent3"
+    }
+  ],
+  "result": {
+    "item": "lessfaminemod:zymotictendons",
+    "count": 1
+  }
+}

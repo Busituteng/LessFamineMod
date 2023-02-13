@@ -3,9 +3,9 @@
   "_type": "food",
   "definition": {
     "renderType": 0,
-    "texture": "soak_assimilated_flesh",
+    "texture": "soak_diseased_heart",
     "customModelName": "Normal",
-    "name": "Soak Assimilated Flesh",
+    "name": "Soak Diseased Heart",
     "rarity": "COMMON",
     "specialInfo": [],
     "creativeTab": {

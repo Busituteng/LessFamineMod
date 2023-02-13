@@ -4,7 +4,7 @@
     {
       "name": "Soakassimilatedflesh",
       "type": "food",
-      "sortid": 1,
+      "sortid": 2,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -12,7 +12,7 @@
     {
       "name": "Tabsrp",
       "type": "item",
-      "sortid": 2,
+      "sortid": 1,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -20,7 +20,7 @@
     {
       "name": "Tabsrp1",
       "type": "tab",
-      "sortid": 3,
+      "sortid": 10,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -28,7 +28,151 @@
     {
       "name": "Soakassimilatedflesh1",
       "type": "recipe",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {}
+    },
+    {
+      "name": "Roastassimilatedflesh",
+      "type": "food",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Roastassimilatedflesh1",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {}
+    },
+    {
+      "name": "Soakrupterviscera",
+      "type": "food",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Soakrupterviscera1",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {}
+    },
+    {
+      "name": "Roastrupterviscera",
+      "type": "food",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Roastrupterviscera1",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {}
+    },
+    {
+      "name": "Soakdiseasedheart",
+      "type": "food",
       "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Soakdiseasedheart1",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {}
+    },
+    {
+      "name": "Roastdiseasedheart",
+      "type": "food",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Roastdiseasedheart1",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {}
+    },
+    {
+      "name": "ZymotictendonsFoodEaten",
+      "type": "procedure",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Zymotictendons",
+      "type": "food",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Zymotictendons1",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {}
+    },
+    {
+      "name": "ParasitesviscerasoupFoodEaten",
+      "type": "procedure",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Parasitesviscerasoup",
+      "type": "food",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Parasitesviscerasoup1",
+      "type": "recipe",
+      "sortid": 20,
       "compiles": true,
       "locked_code": true,
       "ids": {}
@@ -38,26 +182,51 @@
   "sound_elements": [],
   "language_map": {
     "en_us": {
+      "item.soakrupterviscera.name": "Soak Rupter Viscera",
       "item.soakassimilatedflesh.name": "Soak Assimilated Flesh",
       "item.tabsrp.name": "Tab SRP",
-      "itemGroup.tabtabsrp1": "Less Famine Mod: SRP"
+      "item.zymotictendons.name": "Zymotic Tendons",
+      "itemGroup.tabtabsrp1": "Less Famine Mod: SRP",
+      "item.roastrupterviscera.name": "Roast Rupter Viscera",
+      "item.soakdiseasedheart.name": "Soak Diseased Heart",
+      "item.parasitesviscerasoup.name": "Parasites Viscera Soup",
+      "item.roastassimilatedflesh.name": "Roast Assimilated Flesh",
+      "item.roastdiseasedheart.name": "Roast Diseased Heart"
+    },
+    "zh_cn": {
+      "item.soakrupterviscera.name": "浸湿的裂兽内脏",
+      "item.soakassimilatedflesh.name": "浸湿的被同化的肉",
+      "item.tabsrp.name": "LFM: SRP Logo",
+      "item.zymotictendons.name": "发酵的筋腱",
+      "itemGroup.tabtabsrp1": "更少的饥饿：逃逸：寄生体",
+      "item.roastrupterviscera.name": "浸湿的裂兽内脏",
+      "item.soakdiseasedheart.name": "浸湿的病态的心脏",
+      "item.parasitesviscerasoup.name": "寄生体内脏汤",
+      "item.roastassimilatedflesh.name": "烤被同化的肉",
+      "item.roastdiseasedheart.name": "烤病态的心脏"
     }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
   },
   "workspaceSettings": {
     "modid": "lessfaminemod",
     "modName": "LessFamineMod",
-    "version": "1.0.0",
-    "author": "David, MCreator",
+    "version": "0.0.2",
+    "author": "BunnimimiTotem",
     "websiteURL": "https://mcreator.net",
+    "license": "Not specified",
     "disableForgeVersionCheck": true,
     "serverSideOnly": false,
     "requiredMods": [],
     "dependencies": [],
     "dependants": [],
     "mcreatorDependencies": [],
-    "currentGenerator": "1.12.2",
+    "currentGenerator": "forge-1.12.2",
+    "credits": "BT, MCr",
     "modElementsPackage": "net.busituteng.lessfaminemod",
     "lockBaseModFiles": false
   },
-  "mcreatorVersion": 202000214217
+  "mcreatorVersion": 202100118117
 }

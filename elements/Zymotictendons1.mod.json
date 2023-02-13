@@ -10,10 +10,10 @@
     "recipeShapeless": true,
     "recipeSlots": [
       {
-        "value": ""
+        "value": "Items.SPIDER_EYE"
       },
       {
-        "value": ""
+        "value": "Items.APPLE"
       },
       {
         "value": ""
@@ -25,7 +25,7 @@
         "value": "Items.APPLE"
       },
       {
-        "value": "Items.WATER_BUCKET"
+        "value": ""
       },
       {
         "value": ""
@@ -38,9 +38,9 @@
       }
     ],
     "recipeReturnStack": {
-      "value": "CUSTOM:Soakassimilatedflesh"
+      "value": "CUSTOM:Zymotictendons"
     },
-    "name": "soakassimilatedflesh1",
+    "name": "zymotictendons1",
     "namespace": "mod"
   }
 }

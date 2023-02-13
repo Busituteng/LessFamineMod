@@ -17,11 +17,11 @@ import net.busituteng.lessfaminemod.creativetab.TabTabsrp1;
 import net.busituteng.lessfaminemod.ElementsLessfaminemodMod;
 
 @ElementsLessfaminemodMod.ModElement.Tag
-public class ItemSoakassimilatedflesh extends ElementsLessfaminemodMod.ModElement {
-	@GameRegistry.ObjectHolder("lessfaminemod:soakassimilatedflesh")
+public class ItemRoastassimilatedflesh extends ElementsLessfaminemodMod.ModElement {
+	@GameRegistry.ObjectHolder("lessfaminemod:roastassimilatedflesh")
 	public static final Item block = null;
-	public ItemSoakassimilatedflesh(ElementsLessfaminemodMod instance) {
-		super(instance, 2);
+	public ItemRoastassimilatedflesh(ElementsLessfaminemodMod instance) {
+		super(instance, 5);
 	}
 
 	@Override
@@ -32,13 +32,13 @@ public class ItemSoakassimilatedflesh extends ElementsLessfaminemodMod.ModElemen
 	@SideOnly(Side.CLIENT)
 	@Override
 	public void registerModels(ModelRegistryEvent event) {
-		ModelLoader.setCustomModelResourceLocation(block, 0, new ModelResourceLocation("lessfaminemod:soakassimilatedflesh", "inventory"));
+		ModelLoader.setCustomModelResourceLocation(block, 0, new ModelResourceLocation("lessfaminemod:roastassimilatedflesh", "inventory"));
 	}
 	public static class ItemFoodCustom extends ItemFood {
 		public ItemFoodCustom() {
-			super(4, 0f, false);
-			setUnlocalizedName("soakassimilatedflesh");
-			setRegistryName("soakassimilatedflesh");
+			super(8, 0.2f, false);
+			setUnlocalizedName("roastassimilatedflesh");
+			setRegistryName("roastassimilatedflesh");
 			setAlwaysEdible();
 			setCreativeTab(TabTabsrp1.tab);
 			setMaxStackSize(64);

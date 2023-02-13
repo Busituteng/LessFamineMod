@@ -13,6 +13,9 @@
         "value": ""
       },
       {
+        "value": "Items.WATER_BUCKET"
+      },
+      {
         "value": ""
       },
       {
@@ -25,9 +28,6 @@
         "value": "Items.APPLE"
       },
       {
-        "value": "Items.WATER_BUCKET"
-      },
-      {
         "value": ""
       },
       {
@@ -38,9 +38,9 @@
       }
     ],
     "recipeReturnStack": {
-      "value": "CUSTOM:Soakassimilatedflesh"
+      "value": "CUSTOM:Soakdiseasedheart"
     },
-    "name": "soakassimilatedflesh1",
+    "name": "soakdiseasedheart1",
     "namespace": "mod"
   }
 }

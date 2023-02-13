@@ -3,17 +3,17 @@
   "_type": "food",
   "definition": {
     "renderType": 0,
-    "texture": "soak_assimilated_flesh",
+    "texture": "roast_rupter_viscera",
     "customModelName": "Normal",
-    "name": "Soak Assimilated Flesh",
+    "name": "Roast Rupter Viscera",
     "rarity": "COMMON",
     "specialInfo": [],
     "creativeTab": {
       "value": "CUSTOM:Tabsrp1"
     },
     "stackSize": 64,
-    "nutritionalValue": 4,
-    "saturation": 0.0,
+    "nutritionalValue": 8,
+    "saturation": 0.19999999999999998,
     "eatingSpeed": 32,
     "resultItem": {
       "value": ""
