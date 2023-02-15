@@ -9,3 +9,6 @@
 暮色森林：100%  
 匠魂2：15%  
 虚无世界3：0%  
+
+[简体中文](https://github.com/Busituteng/Less-Famine-Mod/blob/main/README.md)  
+[English(en)](https://github.com/Busituteng/Less-Famine-Mod/blob/main/READMEen.md)  
