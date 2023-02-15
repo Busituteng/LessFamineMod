@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": "Items.RABBIT_STEW"
+      },
+      {
+        "value": "Items.MUSHROOM_STEW"
+      },
+      {
+        "value": "CUSTOM:Roasttorchberries"
+      },
+      {
+        "value": "CUSTOM:Liverootsalad"
+      },
+      {
+        "value": "Items.COOKED_BEEF"
+      },
+      {
+        "value": "Items.COOKED_BEEF"
+      },
+      {
+        "value": "Items.COOKED_BEEF"
+      },
+      {
+        "value": "Items.COOKED_BEEF"
+      },
+      {
+        "value": "Items.BOWL"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Liverootsalad"
+    },
+    "name": "meefstroganoff",
+    "namespace": "mod"
+  }
+}
