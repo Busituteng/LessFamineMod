@@ -16,3 +16,6 @@ version: TConstruct-1.12.2-2.13.0.183
 
 Advent of Ascension 3：0%  
 version: AoA3 3.3.6
+
+[简体中文](https://github.com/Busituteng/Less-Famine-Mod/blob/main/README.md)  
+[English(en)](https://github.com/Busituteng/Less-Famine-Mod/blob/main/READMEen.md)  
