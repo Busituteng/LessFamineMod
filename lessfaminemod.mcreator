@@ -20,7 +20,7 @@
     {
       "name": "Tabsrp1",
       "type": "tab",
-      "sortid": 10,
+      "sortid": 16,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -28,7 +28,7 @@
     {
       "name": "Soakassimilatedflesh1",
       "type": "recipe",
-      "sortid": 11,
+      "sortid": 17,
       "compiles": true,
       "locked_code": true,
       "ids": {}
@@ -44,7 +44,7 @@
     {
       "name": "Roastassimilatedflesh1",
       "type": "recipe",
-      "sortid": 12,
+      "sortid": 18,
       "compiles": true,
       "locked_code": true,
       "ids": {}
@@ -60,7 +60,7 @@
     {
       "name": "Soakrupterviscera1",
       "type": "recipe",
-      "sortid": 13,
+      "sortid": 19,
       "compiles": true,
       "locked_code": true,
       "ids": {}
@@ -76,7 +76,7 @@
     {
       "name": "Roastrupterviscera1",
       "type": "recipe",
-      "sortid": 14,
+      "sortid": 20,
       "compiles": true,
       "locked_code": true,
       "ids": {}
@@ -92,7 +92,7 @@
     {
       "name": "Soakdiseasedheart1",
       "type": "recipe",
-      "sortid": 15,
+      "sortid": 21,
       "compiles": true,
       "locked_code": true,
       "ids": {}
@@ -108,7 +108,7 @@
     {
       "name": "Roastdiseasedheart1",
       "type": "recipe",
-      "sortid": 16,
+      "sortid": 22,
       "compiles": true,
       "locked_code": true,
       "ids": {}
@@ -116,7 +116,7 @@
     {
       "name": "ZymotictendonsFoodEaten",
       "type": "procedure",
-      "sortid": 17,
+      "sortid": 23,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -140,7 +140,7 @@
     {
       "name": "Zymotictendons1",
       "type": "recipe",
-      "sortid": 18,
+      "sortid": 24,
       "compiles": true,
       "locked_code": true,
       "ids": {}
@@ -148,7 +148,7 @@
     {
       "name": "ParasitesviscerasoupFoodEaten",
       "type": "procedure",
-      "sortid": 19,
+      "sortid": 25,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -172,10 +172,171 @@
     {
       "name": "Parasitesviscerasoup1",
       "type": "recipe",
-      "sortid": 20,
+      "sortid": 26,
       "compiles": true,
       "locked_code": true,
       "ids": {}
+    },
+    {
+      "name": "Roasttorchberries",
+      "type": "food",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "roasttorchberries"
+    },
+    {
+      "name": "Tabtf",
+      "type": "tab",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tabtf"
+    },
+    {
+      "name": "Soaktorchberries",
+      "type": "food",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "soaktorchberries"
+    },
+    {
+      "name": "Soaktorchberries1",
+      "type": "recipe",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "registry_name": "soaktorchberries_1"
+    },
+    {
+      "name": "Roasttorchberries1",
+      "type": "recipe",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "registry_name": "roasttorchberries_1"
+    },
+    {
+      "name": "Liverootsalad",
+      "type": "food",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "liverootsalad"
+    },
+    {
+      "name": "Liverootsalad1",
+      "type": "recipe",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "registry_name": "liverootsalad_1"
+    },
+    {
+      "name": "Fierybread",
+      "type": "food",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fierybread"
+    },
+    {
+      "name": "Fierybread1",
+      "type": "recipe",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "registry_name": "fierybread_1"
+    },
+    {
+      "name": "Fierybread2",
+      "type": "recipe",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "registry_name": "fierybread_2"
+    },
+    {
+      "name": "Meefstroganoff",
+      "type": "recipe",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "registry_name": "meefstroganoff"
+    },
+    {
+      "name": "Experiment511",
+      "type": "food",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "experiment_511"
+    },
+    {
+      "name": "Experiment512",
+      "type": "recipe",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "registry_name": "experiment_512"
+    },
+    {
+      "name": "GlowballfudgeFoodEaten",
+      "type": "procedure",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "glowballfudge_food_eaten",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Glowballfudge",
+      "type": "food",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "glowballfudge"
+    },
+    {
+      "name": "Tabtic2",
+      "type": "tab",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tabtic_2"
+    },
+    {
+      "name": "Glowballfudge1",
+      "type": "recipe",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "registry_name": "glowballfudge_1"
     }
   ],
   "variable_elements": [],
@@ -183,27 +344,63 @@
   "language_map": {
     "en_us": {
       "item.soakrupterviscera.name": "Soak Rupter Viscera",
-      "item.soakassimilatedflesh.name": "Soak Assimilated Flesh",
+      "item.roasttorchberries.name": "Roast Torchberries",
       "item.tabsrp.name": "Tab SRP",
-      "item.zymotictendons.name": "Zymotic Tendons",
-      "itemGroup.tabtabsrp1": "Less Famine Mod: SRP",
       "item.roastrupterviscera.name": "Roast Rupter Viscera",
       "item.soakdiseasedheart.name": "Soak Diseased Heart",
       "item.parasitesviscerasoup.name": "Parasites Viscera Soup",
+      "itemGroup.tabtabtic_2": "Less Famine Mod: Tinkers\u0027 Construct 2",
+      "item.roastdiseasedheart.name": "Roast Diseased Heart",
+      "item.fierybread.name": "Fiery Bread",
+      "item.soakassimilatedflesh.name": "Soak Assimilated Flesh",
+      "item.soaktorchberries.name": "Soak Torchberries",
+      "item.glowballfudge.name": "Glowball Fudge",
+      "item.zymotictendons.name": "Zymotic Tendons",
+      "item.liverootsalad.name": "Liveroot Salad",
+      "itemGroup.tabtabsrp1": "Less Famine Mod: SRP",
+      "itemGroup.tabtabtf": "Less Famine Mod: Twilight Forest",
       "item.roastassimilatedflesh.name": "Roast Assimilated Flesh",
-      "item.roastdiseasedheart.name": "Roast Diseased Heart"
+      "item.experiment_511.name": "Experiment 511"
     },
     "zh_cn": {
       "item.soakrupterviscera.name": "浸湿的裂兽内脏",
-      "item.soakassimilatedflesh.name": "浸湿的被同化的肉",
-      "item.tabsrp.name": "LFM: SRP Logo",
-      "item.zymotictendons.name": "发酵的筋腱",
-      "itemGroup.tabtabsrp1": "更少的饥饿：逃逸：寄生体",
+      "item.roasttorchberries.name": "烤火炬浆果",
+      "item.tabsrp.name": "LFM: SRP的Logo",
       "item.roastrupterviscera.name": "浸湿的裂兽内脏",
       "item.soakdiseasedheart.name": "浸湿的病态的心脏",
       "item.parasitesviscerasoup.name": "寄生体内脏汤",
+      "itemGroup.tabtabtic_2": "Less Famine Mod: Tinkers\u0027 Construct 2",
+      "item.roastdiseasedheart.name": "烤病态的心脏",
+      "item.fierybread.name": "炽热的面包",
+      "item.soakassimilatedflesh.name": "浸湿的被同化的肉",
+      "item.soaktorchberries.name": "浸湿的火炬浆果",
+      "item.glowballfudge.name": "Glowball Fudge",
+      "item.zymotictendons.name": "发酵的筋腱",
+      "item.liverootsalad.name": "活根沙拉",
+      "itemGroup.tabtabsrp1": "更少的饥饿：逃逸：寄生体",
+      "itemGroup.tabtabtf": "更少的饥饿：暮色森林",
       "item.roastassimilatedflesh.name": "烤被同化的肉",
-      "item.roastdiseasedheart.name": "烤病态的心脏"
+      "item.experiment_511.name": "试验物品 511"
+    },
+    "ja_jp": {
+      "item.soakrupterviscera.name": "ブレーカ内臓を浸す",
+      "item.roasttorchberries.name": "焼きイチゴ",
+      "item.tabsrp.name": "より少ない飢餓：脱出：寄生体のロゴ",
+      "item.roastrupterviscera.name": "ルパホルモン焼き",
+      "item.soakdiseasedheart.name": "病気の心臓を浸す",
+      "item.parasitesviscerasoup.name": "寄生虫の内臓スープ",
+      "itemGroup.tabtabtic_2": "Less Famine Mod: Tinkers\u0027 Construct 2",
+      "item.roastdiseasedheart.name": "病気になった心を焼く",
+      "item.fierybread.name": "焼いたパン",
+      "item.soakassimilatedflesh.name": "同化肉の浸漬",
+      "item.soaktorchberries.name": "いちごのお浸し",
+      "item.glowballfudge.name": "Glowball Fudge",
+      "item.zymotictendons.name": "消化腱",
+      "item.liverootsalad.name": "リフルートサラダ",
+      "itemGroup.tabtabsrp1": "より少ない飢餓：脱出：寄生体",
+      "itemGroup.tabtabtf": "少食飢饉モデル：夕闇の森",
+      "item.roastassimilatedflesh.name": "同化肉のロースト",
+      "item.experiment_511.name": "実験511"
     }
   },
   "foldersRoot": {
@@ -213,7 +410,7 @@
   "workspaceSettings": {
     "modid": "lessfaminemod",
     "modName": "LessFamineMod",
-    "version": "0.0.2",
+    "version": "0.0.19",
     "author": "BunnimimiTotem",
     "websiteURL": "https://mcreator.net",
     "license": "Not specified",

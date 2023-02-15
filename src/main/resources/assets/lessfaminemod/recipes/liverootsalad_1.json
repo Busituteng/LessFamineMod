@@ -1,0 +1,19 @@
+{
+  "group": "lessfaminemod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "twilightforest:liveroot"
+    },
+    {
+      "item": "minecraft:bowl"
+    },
+    {
+      "item": "twilightforest:liveroot"
+    }
+  ],
+  "result": {
+    "item": "lessfaminemod:liverootsalad",
+    "count": 1
+  }
+}

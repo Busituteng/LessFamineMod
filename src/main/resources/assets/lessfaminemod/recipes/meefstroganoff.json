@@ -1,0 +1,37 @@
+{
+  "group": "lessfaminemod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:rabbit_stew"
+    },
+    {
+      "item": "minecraft:mushroom_stew"
+    },
+    {
+      "item": "lessfaminemod:roasttorchberries"
+    },
+    {
+      "item": "lessfaminemod:liverootsalad"
+    },
+    {
+      "item": "twilightforest:cooked_meef"
+    },
+    {
+      "item": "twilightforest:cooked_meef"
+    },
+    {
+      "item": "twilightforest:cooked_meef"
+    },
+    {
+      "item": "twilightforest:cooked_meef"
+    },
+    {
+      "item": "minecraft:bowl"
+    }
+  ],
+  "result": {
+    "item": "twilightforest:meef_stroganoff",
+    "count": 1
+  }
+}

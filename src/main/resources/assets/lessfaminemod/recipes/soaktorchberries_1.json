@@ -1,0 +1,16 @@
+{
+  "group": "lessfaminemod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:water_bucket"
+    },
+    {
+      "item": "twilightforest:torchberries"
+    }
+  ],
+  "result": {
+    "item": "lessfaminemod:soaktorchberries",
+    "count": 1
+  }
+}

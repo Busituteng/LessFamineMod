@@ -1,0 +1,16 @@
+{
+  "group": "lessfaminemod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "tconstruct:throwball"
+    },
+    {
+      "item": "tconstruct:throwball"
+    }
+  ],
+  "result": {
+    "item": "lessfaminemod:glowballfudge",
+    "count": 1
+  }
+}
