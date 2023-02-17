@@ -2,15 +2,15 @@
   {
     "modid": "lessfaminemod",
     "name": "LessFamineMod",
-    "description": "",
-    "version": "0.0.19",
-    "credits": "BT, MCr",
+    "description": "Less Famine!",
+    "version": "0.0.32",
+    "credits": "None.",
     "logoFile": "",
     "mcversion": "1.12.2",
-    "url": "https://mcreator.net",
+    "url": "https://github.com/Busituteng/Less-Famine-Mod",
     "updateUrl": "",
     "authorList": [
-      "BunnimimiTotem"
+      "BunnimimiTotem, MCr"
     ],
     "dependencies": [],
     "dependants": [],

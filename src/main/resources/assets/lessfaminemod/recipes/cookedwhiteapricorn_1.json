@@ -1,0 +1,13 @@
+{
+  "group": "lessfaminemod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "pixelmon:cooked_white_apricorn"
+    }
+  ],
+  "result": {
+    "item": "lessfaminemod:cookedwhiteapricorn",
+    "count": 1
+  }
+}
