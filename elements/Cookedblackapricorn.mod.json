@@ -1,0 +1,26 @@
+{
+  "_fv": 18,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "cookedblackapricorn",
+    "customModelName": "Normal",
+    "name": "Cooked Black Apricorn",
+    "rarity": "COMMON",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Tabpm"
+    },
+    "stackSize": 64,
+    "nutritionalValue": 7,
+    "saturation": 0.2,
+    "eatingSpeed": 32,
+    "resultItem": {
+      "value": ""
+    },
+    "forDogs": false,
+    "isAlwaysEdible": true,
+    "animation": "eat",
+    "hasGlow": false
+  }
+}
