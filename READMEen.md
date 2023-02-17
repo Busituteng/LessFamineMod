@@ -11,8 +11,11 @@ version: SRP v1.9.10
 Twilight Forest：100%  
 version: twilightforest-1.12.2-3.11.1021-universal  
  
-Tinkers' Construct 2：15%  
-version: TConstruct-1.12.2-2.13.0.183  
+~~Tinkers' Construct 2：15%~~  
+~~version: TConstruct-1.12.2-2.13.0.183~~  
+
+Pixelmon:90%  
+version:Pixelmon 9.1.3  
 
 Advent of Ascension 3：0%  
 version: AoA3 3.3.6
