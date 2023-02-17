@@ -7,7 +7,8 @@
 ## 目前各联动完善度：
 逃逸寄生体：100%  
 暮色森林：100%  
-匠魂2：15%  
+~~匠魂2：15%~~ 匠魂2已停止制作  
+像素精灵宝可梦 重铸：90%  
 虚无世界3：0%  
 
 [简体中文](https://github.com/Busituteng/Less-Famine-Mod/blob/main/README.md)  
